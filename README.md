@@ -9,6 +9,15 @@ A Python project that uses a webcam for hand gesture recognition to draw on a vi
 - **AI Integration**: Send drawings to Google Gemini AI for analysis or solving math problems.
 - **Streamlit Interface**: Simple web-based interface to interact with the canvas and display AI responses.
 
+## **Result Samples
+[2x33.webm](https://github.com/user-attachments/assets/09311872-e729-4000-a00a-8820bdf82283)
+
+[2x.webm](https://github.com/user-attachments/assets/121f26e7-1d79-4aa5-9ce7-55bebafa5d8d)
+
+[2x2.webm](https://github.com/user-attachments/assets/3f3adef9-9ff4-4608-9d65-1f6ab793bd18)
+
+
+
 ## **Setup**
 
 1. Install dependencies:
